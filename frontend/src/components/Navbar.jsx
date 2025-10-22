@@ -38,6 +38,7 @@ const Navbar = () => {
             {colorMode === "light" ? <MoonIcon /> : <SunIcon />}
           </Button>
         </HStack>
+        
       </Flex>
     </Container>
   );
